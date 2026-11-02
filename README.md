@@ -83,7 +83,7 @@ The circuit was initially designed and tested in the Wokwi online electronics si
 
 ![Wokwi Circuit Diagram](diagram.png)
 
-**Wokwi Project:** [Add your Wokwi simulation link here]([https://wokwi.com/](https://wokwi.com/projects/479371518161693697))
+**Wokwi Project:** [Add your Wokwi simulation link here](https://wokwi.com/projects/479371518161693697)
 
 ---
 
