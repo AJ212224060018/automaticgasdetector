@@ -328,10 +328,9 @@ The prototype must not replace certified gas detectors or industrial safety syst
 
 ## 👨‍💻 Developed By
 
-**Anal Johny W R**
-**Joel John Jobinse**
+**Anal Johny W R**\n**Joel John Jobinse**
 
-B.E. Electronics and Communication Engineering
+B.E. Electronics and Communication Engineering\n
 B.Tech. Artificial Intelligence and Machine learning
 
 Saveetha Engineering College
