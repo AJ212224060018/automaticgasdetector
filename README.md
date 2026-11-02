@@ -145,6 +145,9 @@ emergency services or a qualified
 technician.
 ```
 
+<img width="738" height="1600" alt="WhatsApp Image 2026-11-02 at 8 58 32 AM" src="https://github.com/user-attachments/assets/8fe45cbb-af6e-4d17-820e-267c70e25c44" />
+
+
 Telegram integration is implemented using the Telegram Bot API over HTTPS.
 
 ---
