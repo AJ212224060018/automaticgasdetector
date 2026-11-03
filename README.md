@@ -334,7 +334,7 @@ The prototype must not replace certified gas detectors or industrial safety syst
 
 B.E. Electronics and Communication Engineering
 
-B.Tech. Artificial Intelligence and Machine learning
+B.Tech. Artificial Intelligence and Machine Learning
 
 Saveetha Engineering College
 
